@@ -1,0 +1,75 @@
+TRIAL 1
+selection_threshold = 0.5
+similarity_threshold = 0.5
+Metrics without substitutes:
+Out of 10803 orders, 5807 of them utilize the in-aisle items. That's about 53.75%.
+On average there are 1.89 items in each order, and 0.73 of them utilize in-aisle items. That's about 38.62%
+Metrics with substitutes:
+Out of 10803 orders, 8245 of them utilize the in-aisle items. That's about 76.32%.
+On average there are 1.89 items in each order, and 1.16 of them utilize in-aisle items. That's about 61.34%
+
+TRIAL 2
+selection_threshold = 0.4
+similarity_threshold = 0.5
+Metrics without substitutes:
+Out of 10803 orders, 5694 of them utilize the in-aisle items. That's about 52.71%.
+On average there are 1.89 items in each order, and 0.72 of them utilize in-aisle items. That's about 37.94%
+Metrics with substitutes:
+Out of 10803 orders, 8107 of them utilize the in-aisle items. That's about 75.04%.
+On average there are 1.89 items in each order, and 1.14 of them utilize in-aisle items. That's about 60.32%
+Comments: DECREASED RESULTS
+
+TRIAL 3
+selection_threshold = 0.6
+similarity_threshold = 0.5
+Metrics without substitutes:
+Out of 10803 orders, 5839 of them utilize the in-aisle items. That's about 54.05%.
+On average there are 1.89 items in each order, and 0.74 of them utilize in-aisle items. That's about 39.31%
+Metrics with substitutes:
+Out of 10803 orders, 8297 of them utilize the in-aisle items. That's about 76.80%.
+On average there are 1.89 items in each order, and 1.17 of them utilize in-aisle items. That's about 62.02%
+Comments: BETTER THAN TRIAL 1 AND 2
+
+TRIAL 4
+selection_threshold = 0.7
+similarity_threshold = 0.5
+Metrics without substitutes:
+Out of 10803 orders, 5841 of them utilize the in-aisle items. That's about 54.07%.
+On average there are 1.89 items in each order, and 0.74 of them utilize in-aisle items. That's about 39.34%
+Metrics with substitutes:
+Out of 10803 orders, 8207 of them utilize the in-aisle items. That's about 75.97%.
+On average there are 1.89 items in each order, and 1.16 of them utilize in-aisle items. That's about 61.19%
+Comments: WITHOUT SUBS ALMOST EQUAL TO TRIAL 3 BUT WITH SUBS DECREASED
+
+TRIAL 5
+selection_threshold = 0.6
+similarity_threshold = 0.6
+Metrics with substitutes:
+Out of 10803 orders, 7210 of them utilize the in-aisle items. That's about 66.74%.
+On average there are 1.89 items in each order, and 0.96 of them utilize in-aisle items. That's about 50.60%
+Comments: METRICS WITH SUBS DECREASED
+
+TRIAL 6
+selection_threshold = 0.6
+similarity_threshold = 0.4
+Metrics with substitutes:
+Out of 10803 orders, 9514 of them utilize the in-aisle items. That's about 88.07%.
+On average there are 1.89 items in each order, and 1.46 of them utilize in-aisle items. That's about 77.44%
+Comments: BELOW 0.4 SIMILARITY INDEX, RESULTS KEEP GETTING BETTER, BUT CAN ACCOUNT FOR OVERSIMPLIFICATION.
+
+CURRENT OPTIMUM:
+selection_threshold = 0.6
+similarity_threshold = 0.5
+
+
+
+
+
+
+
+
+
+
+
+
+

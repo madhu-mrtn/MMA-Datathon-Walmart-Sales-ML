@@ -1,0 +1,32 @@
+// Product Selection Algorithm
+digraph {
+	A [label=Start]
+	B [label="Import Necessary Libraries (Fuzzywuzzy)"]
+	C [label="Calculate Sales for Each Product"]
+	D [label="Group Similar Products Using Fuzzy String Matching"]
+	E [label="Select Products with Highest Sales in Each Group"]
+	F [label=End]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F
+	{
+		rank=same
+		C [label="Load Data (Produce Data)"]
+		D [label="Group Data by 'product_name'"]
+		E [label="Calculate Unique Sales ('sales') per Product"]
+	}
+	{
+		rank=same
+		D [label="Initialize an Empty Dictionary (product_groups)"]
+		E [label="Set Threshold (e.g., 50) for Similarity Score"]
+		F [label="Get Unique Product Names"]
+		G [label="Loop Over Each Unique Product"]
+	}
+	{
+		rank=same
+		E [label="Create an Empty Basket (List)"]
+		F [label="Add Products with Highest Sales from Each Group to Basket"]
+	}
+}

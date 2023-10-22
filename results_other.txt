@@ -1,0 +1,40 @@
+METHOD 1: Selection based on Pure total sales of each product
+Metric Calculation without accounting for substitutes for METHOD 1
+Out of 27639 orders, 27350 of them utilize the in-aisle items. That's about 98.95%.
+On average there are 5.41 items in each order, and 4.97 of them utilize in-aisle items. That's about 91.84%
+Metric Calculation accounting for substitutes for METHOD 1
+Out of 27639 orders, 27571 of them utilize the in-aisle items. That's about 99.75%.
+On average there are 5.41 items in each order, and 5.30 of them utilize in-aisle items. That's about 97.95%
+
+METHOD 4: Selection based on Pure total sales of each product
+Metric Calculation without accounting for substitutes for METHOD 4
+Out of 27639 orders, 24243 of them utilize the in-aisle items. That's about 87.71%.
+On average there are 5.41 items in each order, and 10.96 of them utilize in-aisle items. That's about 202.56%
+Metric Calculation accounting for substitutes for METHOD 4
+Out of 27639 orders, 26966 of them utilize the in-aisle items. That's about 97.57%.
+On average there are 5.41 items in each order, and 4.63 of them utilize in-aisle items. That's about 85.60%
+
+METHOD 5: One of each aisle max and remaining using method 1 (top product sales)
+Metric Calculation without accounting for substitutes for METHOD 5
+Out of 27639 orders, 24243 of them utilize the in-aisle items. That's about 87.71%.
+On average there are 5.41 items in each order, and 10.96 of them utilize in-aisle items. That's about 202.56%
+Metric Calculation accounting for substitutes for METHOD 5
+Out of 27639 orders, 26966 of them utilize the in-aisle items. That's about 97.57%.
+On average there are 5.41 items in each order, and 4.63 of them utilize in-aisle items. That's about 85.60%
+
+METHOD 6: First take one max from each aisle and then method 2 for remaining (weightage based on total sales per aisle)
+Metric Calculation without accounting for substitutes for METHOD 6
+Out of 27639 orders, 20878 of them utilize the in-aisle items. That's about 75.54%.
+On average there are 5.41 items in each order, and 387.08 of them utilize in-aisle items. That's about 7155.27%
+Metric Calculation accounting for substitutes for METHOD 6
+Out of 27639 orders, 26157 of them utilize the in-aisle items. That's about 94.64%.
+On average there are 5.41 items in each order, and 4.08 of them utilize in-aisle items. That's about 75.41%
+
+METHOD 1: Selection based on Pure total sales of each product
+Metric Calculation without accounting for substitutes for METHOD 1
+Out of 27639 orders, 27350 of them utilize the in-aisle items. That's about 98.95%.
+On average there are 5.41 items in each order, and 4.97 of them utilize in-aisle items. That's about 91.84%
+Metric Calculation accounting for substitutes for METHOD 1
+Out of 27639 orders, 27571 of them utilize the in-aisle items. That's about 99.75%.
+On average there are 5.41 items in each order, and 5.30 of them utilize in-aisle items. That's about 97.95%
+

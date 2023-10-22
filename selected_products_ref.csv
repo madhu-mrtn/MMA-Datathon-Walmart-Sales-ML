@@ -1,0 +1,101 @@
+product_name,product_id,aisle_id,department_id
+Organic Cilantro,31717,16,4
+Organic Italian Parsley Bunch,34126,16,4
+Organic Basil,43789,16,4
+Bunched Cilantro,28842,16,4
+Tilapia Filet,10017,39,12
+Coho Salmon,35629,39,12
+Wild Sockeye Salmon,10121,15,12
+Smoked Salmon,13877,15,12
+Ground Turkey Breast,38293,35,12
+Boneless Skinless Chicken Breast,6046,35,12
+85% Lean Ground Beef,13198,122,12
+93% Ground Beef,10603,122,12
+Organic Chicken Thighs,34530,7,12
+Ground Buffalo,46990,7,12
+Original Recipe Rice Pudding,32981,71,16
+Organic Chocolate Almondmilk Pudding,4357,71,16
+Boneless Skinless Chicken Breast Fillets,27360,49,12
+Boneless Skinless Chicken Breasts,25890,49,12
+Organic Hass Avocado,47209,24,4
+Honeycrisp Apple,45066,24,4
+Organic Avocado,47766,24,4
+Banana,24852,24,4
+Large Lemon,47626,24,4
+Strawberries,16797,24,4
+Organic Lemon,5876,24,4
+Organic Strawberries,21137,24,4
+Organic Large Extra Fancy Fuji Apple,19057,24,4
+Organic Blackberries,26604,24,4
+Limes,26209,24,4
+Organic Gala Apples,37646,24,4
+Organic Granny Smith Apple,39877,24,4
+Apple Honeycrisp Organic,8277,24,4
+"Freshly Made. Filled with Creamy Ricotta, Aged Parmesan and Romano Cheeses Three Cheese Tortellini",39719,12,9
+"Ravioli, Spinach & Cheese",4193,12,9
+Unsalted Butter,42736,36,16
+Unsalted Pure Irish Butter,2078,36,16
+Pure Irish Butter,33000,36,16
+Cucumber Kirby,49683,83,4
+Michigan Organic Kale,28985,83,4
+Asparagus,46979,83,4
+Organic Cucumber,30391,83,4
+Organic Tomato Cluster,41950,83,4
+Organic Garlic,24964,83,4
+Fresh Cauliflower,27104,83,4
+Red Peppers,24184,83,4
+Organic Small Bunch Celery,44359,83,4
+Organic Red Bell Pepper,10749,83,4
+Tuna Salad,26047,1,20
+Large Alfresco Eggs,11520,86,16
+Organic Grade A Free Range Large Brown Eggs,18465,86,16
+Organic Large Grade AA Brown Eggs,32655,86,16
+Organic Large Brown Grade AA Cage Free Eggs,30233,86,16
+Organic Heavy Whipping Cream,18531,53,16
+Organic Half & Half,49235,53,16
+Half & Half,27086,53,16
+Organic Extra Firm Tofu,42585,14,20
+Organic Sour Cream,42701,108,16
+Sour Cream,23734,108,16
+Whipped Cream Cheese,42828,108,16
+Fresh Mozzarella Ball,37524,2,16
+Wild Albacore Tuna No Salt Added,79,95,15
+Grilled Chicken Breast,7916,13,20
+2% Reduced Fat Milk,23909,84,16
+Organic Whole Milk,27845,84,16
+Whole Milk,4210,84,16
+Organic Milk,1463,84,16
+Organic Reduced Fat 2% Milk,5785,84,16
+Fat Free Milk,19348,84,16
+Organic Reduced Fat Milk,38689,84,16
+Beer,46088,27,5
+Vanilla Almond Breeze Almond Milk,432,91,16
+Unsweetened Almondmilk,24838,91,16
+Organic Unsweetened Almond Milk,35951,91,16
+Organic Coconut Milk,25659,91,16
+Unsweetened Original Almond Breeze Almond Milk,47144,91,16
+Guacamole,40396,67,20
+Original Hummus,30489,67,20
+Lemon Hummus,13646,67,20
+Uncured Genoa Salami,27344,96,20
+Oven Roasted Turkey Breast,40310,96,20
+Organic Roasted Turkey Breast,22963,96,20
+Organic Beef Hot Dogs,45633,106,12
+Natural Chicken & Sage Breakfast Sausage,27695,106,12
+Uncured Hickory Smoked Sunday Bacon,47672,106,12
+Soda,196,77,7
+Fridge Pack Cola,10957,77,7
+Cola,47141,77,7
+Organic Whole String Cheese,22035,21,16
+Shredded Parmesan,4799,21,16
+Grated Parmesan,33731,21,16
+Feta Cheese Crumbles,40604,21,16
+Shredded Mild Cheddar Cheese,31343,21,16
+Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,7781,21,16
+Total Greek Strained Yogurt,39475,120,16
+"YoKids Squeezers Organic Low-Fat Yogurt, Strawberry",17600,120,16
+Total 2% All Natural Greek Strained Yogurt with Honey,18523,120,16
+Total 0% Greek Yogurt,20842,120,16
+Total 2% Lowfat Greek Strained Yogurt With Blueberry,4957,120,16
+Total 0% Nonfat Greek Yogurt,46676,120,16
+Total 2% with Strawberry Lowfat Greek Strained Yogurt,33754,120,16
